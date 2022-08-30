@@ -32,3 +32,5 @@ Note: there are not many publicly available ocean debris datasets - the most com
 
 # Canva Slides Presentation for Cleansea ML Mobile App
 https://www.canva.com/design/DAFIGOsvodM/QWxmbrADZLBg_JPwwZjQmg/view?utm_content=DAFIGOsvodM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+
+*A group project.
